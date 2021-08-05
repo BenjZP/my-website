@@ -27,7 +27,7 @@ This is my website portfolio made by following a tutorial from a YouTube called 
 ![](./images/screenshot.png)
 
 ### Links
-- Live Site URL: [Click here]( https://benjzp.github.io/my-website/)
+- Live Site URL: [Click here](https://benjzp.github.io/my-website/)
 
 ## My process
 
