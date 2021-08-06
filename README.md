@@ -28,8 +28,7 @@ This is my website portfolio made by following a tutorial from a YouTube called 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://benjzp.github.io/my-website/)
 
 ## My process
 
