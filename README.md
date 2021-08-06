@@ -1,4 +1,4 @@
-# My Personal Website
+# Frontend Mentor - Profile card component solution
 
 This is my website portfolio made by following a tutorial from a YouTube called [Build a Portfolio Website & Deploy by Traversy Media with Denis Ivy](https://www.youtube.com/watch?v=r_hYR53r61M)
 
@@ -27,7 +27,9 @@ This is my website portfolio made by following a tutorial from a YouTube called 
 ![](./images/screenshot.png)
 
 ### Links
-- Live Site URL: [Click here](https://benjzp.github.io/my-website/)
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
