@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component solution
+# Website Profile
 
 This is my website portfolio made by following a tutorial from a YouTube called [Build a Portfolio Website & Deploy by Traversy Media with Denis Ivy](https://www.youtube.com/watch?v=r_hYR53r61M)
 
