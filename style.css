@@ -185,10 +185,17 @@ h6{ font-size: 16px;}
     background-color: #7E4C74;
 }
 
+#settings-note {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
 .right-column {
     grid-area: right-column;
     display: grid;
     align-content: center;
+
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -199,16 +206,6 @@ h6{ font-size: 16px;}
     height: 180px;
     padding-left: 30px;
     padding-top: 30px;
-}
-
-#settings-note {
-    font-size: 12px;
-    font-style: italic;
-    text-align: center;
-}
-
-.right-column {
-    grid-area: right-column;
 }
 
 #preview {
@@ -246,6 +243,30 @@ h6{ font-size: 16px;}
 #corner-bl {
     bottom: -5px;
     left: -5px;
+}
+
+.about-wrapper {
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(320px, 1fr));
+    padding-bottom: 50px;
+    padding-top: 50px;
+    gap: 100px;
+}
+
+#skills {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: var(--previewShadow);
+}
+
+.social-links {
+    display: grid;
+    align-content: center;
+    text-align: center;
+}
+
+#social-img {
+    width: 100%;
 }
 
 @media screen and (max-width: 1200px) {
