@@ -88,7 +88,7 @@ h6{ font-size: 16px;}
 }
 
 .nav-wrapper {
-    border-radius: 5px 5px 0 0;
+    border-radius: 5px 5px 0px 0px;
     grid-area: nav-wrapper;
     border-bottom: 1px solid var(--borderColor);
     display: flex;
@@ -102,7 +102,7 @@ h6{ font-size: 16px;}
     padding: 10px;
 }
 
-#navigation li{
+#navigation li {
     display: inline-block;
     margin-right: 5px;
     margin-left: 5px;
@@ -110,44 +110,48 @@ h6{ font-size: 16px;}
 
 .dots-wrapper {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    flex: 1;
-    letter-spacing: .1rem;
-    position: sticky;
+    padding: 10px;
 }
 
 #dot-1 {
-    text-align: center;
+    background-color: #FC6058;
 }
 
 #dot-2 {
-    text-align: center;
+    background-color: #FEC02F;
 }
 
 #dot-3 {
-    text-align: center;
+    background-color: #2ACA35;
 }
 
 .browser-dot {
-    position: sticky;
+    text-align: center;
     color: black;
-    box-sizing: content-box;
-    padding: 10px;
-    background-color: white;
-    height: 15px;
-    width: 80px;
-    border-radius: 10%;
-    margin: 10px;
+    height: 20px;
+    width: 100px;
+    border-radius: 20%;
+    margin: 5px;
+
     -webkit-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
     -moz-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
     box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
+
+}
+
+#navigation {
+    margin: 0;
+    padding: 10px;
+}
+
+#navigation li {
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 .browser-dot:hover {
-    color:white;
-    background: rgba(102,177,241,0.8);
-    transition: all 0.5s ease;
+    background-color: #e1e1e1;
 }
 
 .left-column {
